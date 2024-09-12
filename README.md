@@ -8,7 +8,7 @@ click on the link to see :- ([Open in Youtube]())
 # portfolio preview
 
 # Home Page
-![screenshot](main.jpg)
+![screenshot](Alex.png)
 
 
 
